@@ -1,2 +1,0 @@
-# histats
-Clear
